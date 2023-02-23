@@ -1,0 +1,17 @@
+com\jb\dao\PermissionDao.class
+com\jb\service\ReportServiceImpl.class
+com\jb\dao\CheckItemDao.class
+com\jb\service\UserServiceImpl.class
+com\jb\service\SetmealServiceImpl.class
+com\jb\service\CheckItemServiceImpl.class
+com\jb\dao\RoleDao.class
+com\jb\dao\UserDao.class
+com\jb\service\OrderServiceImpl.class
+com\jb\dao\MemberDao.class
+com\jb\dao\OrderSettingDao.class
+com\jb\dao\CheckGroupDao.class
+com\jb\dao\OrderDao.class
+com\jb\service\MemberServiceImpl.class
+com\jb\dao\SetmealDao.class
+com\jb\service\CheckGroupServiceImpl.class
+com\jb\service\OrderSettingServiceImpl.class

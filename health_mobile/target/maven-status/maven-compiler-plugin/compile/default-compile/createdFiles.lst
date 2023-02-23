@@ -1,0 +1,4 @@
+com\jb\controller\OrderController.class
+com\jb\controller\SetmealController.class
+com\jb\controller\ValidateCodeController.class
+com\jb\controller\MemberController.class

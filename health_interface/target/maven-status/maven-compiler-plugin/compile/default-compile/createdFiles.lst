@@ -1,0 +1,8 @@
+com\jb\service\SetmealService.class
+com\jb\service\OrderSettingService.class
+com\jb\service\MemberService.class
+com\jb\service\CheckGroupService.class
+com\jb\service\OrderService.class
+com\jb\service\CheckItemService.class
+com\jb\service\ReportService.class
+com\jb\service\UserService.class
